@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "abhay-gohil-portfolio"
-  }
+    "default": "abhay-gohil-portfolio",
+    "abhay": "abhay-gohil-portfolio"
+  },
+  "targets": {},
+  "etags": {}
 }
