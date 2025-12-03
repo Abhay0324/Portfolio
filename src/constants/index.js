@@ -6,20 +6,22 @@ import project5 from "../assets/projects/project_main_5.png";
 import project6 from "../assets/projects/project_main_6.png";
 import project7 from "../assets/projects/project_main_7.png";
 
-export const HERO_CONTENT = `I'm a passionate Android developer with 2 years of experience, dedicated to crafting top-notch mobile applications. Proficient in Java and Kotlin, I excel in building sleek, high-performance apps using Android Studio and other frameworks. My focus is on delivering user-centric experiences and collaborating effectively with cross-functional teams to drive success.
-\n🚀 Let's connect and explore how we can work together on exciting projects!`;
+export const HERO_CONTENT = `Android Developer (2 years experience) on a mission to building world-class Mobile Applications Advanced skills in Java and Kotlin, you can depend on me to efficiently deliver robust Android apps made with clean design patterns using tools like Android Studio and more. I design user-centric experiences and work collaboratively with cross-functional teams to deliver them, in order to drive success.
 
-export const ABOUT_TEXT = `👋 Hello everyone!
-\nI'm a dedicated BCA student and Android developer with a passion for crafting innovative solutions. With a solid foundation in computer science and a year of hands-on experience in Android app development, I thrive on tackling real-world challenges and staying at the forefront of technology.
-\nMy approach centers on delivering top-notch user experiences and collaborating effectively with diverse teams. I'm adept at coding in Java and Kotlin, utilizing Android Studio and frameworks to build high-performance apps. I'm also a problem solver at heart, with a knack for troubleshooting and optimizing app performance.
-\n🎓 Relevant coursework includes Data Structures, Object-Oriented Programming, and Mobile Application Development, complementing my practical skills.`;
+\n🚀 Let's Connect & Work Together on Great Things`;
+
+export const ABOUT_TEXT = `👋 Hey everyone!\n
+I'm a passionate Android developer and a dedicated Bachelor of Computer Applications (BCA) graduate. I love coming up with innovative solutions and creating amazing user experiences. With two years of hands-on experience in Android app development, I'm always up for tackling real-world challenges and staying up-to-date with the latest in technology.
+\nWhen it comes to coding, I'm well-versed in Java and Kotlin, and I love working with Android Studio. I believe in the power of collaboration, and I enjoy working with diverse teams to create top-notch apps.
+\nIn addition to my practical experience, I've also completed relevant coursework in Data Structures, Object-Oriented Programming, and Mobile Application Development. These courses have further enhanced my skills and knowledge in the field.
+\nI'm all about optimizing app performance and troubleshooting any issues that come my way. I enjoy diving into the nitty-gritty details to make sure everything runs smoothly.`;
 
 export const EXPERIENCES = [
   {
     year: "Feb 2024 - Present",
     role: "Android Developer",
     company: "Athh Technologies LLP",
-    description: `Hello! I'm Abhay Gohil, an experienced employee with a proven track record of success in Android App Development. With 2 years of experience, I am a results-driven professional who consistently delivers exceptional performance in creating software codes with the help of app development platforms such as Android Studio. I am committed to helping businesses achieve their goals through my expertise, skills, and dedication.`,
+    description: "Athh Technologies LLP is a cool and innovative tech company that rocks at developing mobile applications. As a Senior Android Developer at Athh Technologies LLP, my main gig is to design, develop, and maintain all sorts of awesome apps. Think photo editing apps, WhatsApp sticker apps, GST calculator apps, and even video player apps. You name it, we do it! <br><br>My job is all about leading projects and working together with different teams to make sure we deliver top-notch, user-friendly applications. We're all about quality here at Athh Technologies LLP!",
     technologies: ["Android", "Java", "Kotlin","XML","API'S", "Firebase","GitHub","Ads","MVVM","Database","Jetpack"],
   },
   {
@@ -34,14 +36,14 @@ export const EXPERIENCES = [
     year: "Jun 2023 - Oct 2023",
     role: "Software Developer",
     company: "Mukesoft IT Consultants",
-    description: `Web development under the PHP framework in Laravel Codeigniter.Working on the project like, Inventory Management Project, GST billing Project, SRA Project, etc.`,
+    description: `During my time at Mukesoft IT Consultants, I worked as a Software Developer, specializing in web development using PHP frameworks like Laravel and CodeIgniter. My main gig was to develop and maintain different projects, such as Inventory Management Systems, GST Billing Projects, and SRA (Slum Rehabilitation Authority) Projects. Basically, I was the go-to person for all things back-end development, database management, and creating kickass web applications that were scalable and efficient.`,
     technologies: ["Laravel", "Codeigniter", "Java Script","CSS","HTML","SQL Lite","AJAX"],
   },
   {
     year: "Apr 2022 - May 2023",
     role: "Android Developer",
     company: "Azzure Solutions",
-    description: `Hello! I'm Abhay Gohil, an experienced employee with a proven track record of success in Android App Development. With 1 years of experience, I am a results-driven professional who consistently delivers exceptional performance in creating software codes with the help of app development platforms such as Android Studio. I am committed to helping businesses achieve their goals through my expertise, skills, and dedication.`,
+    description: `My main gig was as an Android Developer at Azzure Solutions. I specialize in building apps from scratch – you name it, I've done it. Wallpaper apps, affirmation apps, habit trackers, light meters, sound meters, life hack apps, you get the picture. My goal? To help businesses reach their objectives with my top-notch expertise. So, if you're looking for an Android whiz, you've come to the right place!`,
     technologies: ["Android", "Java", "Kotlin","XML","API'S", "Firebase","GitHub","Ads","Database"],
   },
 ];
@@ -111,3 +113,19 @@ export const CONTACT = {
   phoneNo: "+91 7990848274",
   email: "abhaygohil0324@gmail.com",
 };
+
+
+export const EDUCATION = [
+  {
+      year: "2023-2025",
+      degree: "Master of Computer Applications",
+      university: "Jain University (Deemed-to-be University)",
+      percentage: "FIRST YEAR DISTINCTION",
+  },
+  {
+      year: "2020-2023",
+      degree: "Bachelor of Computer Applications",
+      university: "Veer Narmad South Gujarat University",
+      percentage: "FIRST CLASS",
+  },
+]
